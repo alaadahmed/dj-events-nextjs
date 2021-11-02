@@ -1,0 +1,7 @@
+.footer {
+  @apply mx-10 mt-10 mb-0 text-center;
+}
+
+.footer p {
+  @apply my-1.5 mx-0 font-light text-sm;
+}

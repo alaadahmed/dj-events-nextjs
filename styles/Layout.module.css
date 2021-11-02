@@ -1,0 +1,6 @@
+.container {
+  @apply max-w-[960px] px-8 py-0 my-10 mx-auto;
+}
+.container h1 {
+  @apply mb-6 text-3xl font-bold text-gray-900;
+}

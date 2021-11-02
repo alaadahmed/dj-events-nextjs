@@ -1,0 +1,19 @@
+.header {
+  @apply flex flex-col items-center mx-auto justify-between h-auto px-8 text-gray-800 bg-white md:flex-row md:h-16 md:max-w-[960px];
+}
+
+.header a {
+  @apply mr-0 font-medium text-gray-800 hover:text-black md:mr-5;
+}
+
+.header ul {
+  @apply flex flex-col items-center justify-center my-5 text-center list-none md:my-0 md:flex-row md:text-right;
+}
+
+.logo {
+  @apply text-xl text-red-600 uppercase;
+}
+
+.logo a {
+  @apply text-red-600;
+}

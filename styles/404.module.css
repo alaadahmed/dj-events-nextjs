@@ -1,0 +1,7 @@
+.error {
+  @apply mx-48 mt-24 mb-0 text-center;
+}
+
+.error h1 {
+  @apply text-5xl font-extrabold;
+}
